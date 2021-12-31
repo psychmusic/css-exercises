@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(248, 95, 187);
+    font-family: Verdana, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#primo {
+    color: rgb(00, 00, 255);
+    font-size: 36px;
+}
+
+#segundo {
+    background-color: #00ff09;
+    font-size: 24px;
+    font-weight: bold;
+}
