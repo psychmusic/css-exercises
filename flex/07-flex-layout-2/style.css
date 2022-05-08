@@ -27,6 +27,12 @@ a {
   display: flex;
 }
 
+.container {
+  padding: 32px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .sidebar {
   flex-shrink: 0;
   padding: 16px;
