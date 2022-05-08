@@ -23,6 +23,11 @@ body {
   font-weight: 700;
   margin-bottom: 8px;
 }
+
+.text {
+  margin-bottom: 16px;
+}
+
 .modal {
   background: white;
   width: 480px;
