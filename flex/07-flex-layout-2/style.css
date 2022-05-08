@@ -11,6 +11,11 @@ body {
   display: flex;
 }
 
+.sidebar {
+  flex-shrink: 0;
+  padding: 16px;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
