@@ -29,6 +29,11 @@ button {
   flex-direction: center;
 }
 
+a {
+  color: #666;
+  text-direction: none;
+}
+
 input {
   border: 1px solid #ddd;
   border-radius: 16px;
