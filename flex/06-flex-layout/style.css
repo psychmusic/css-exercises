@@ -41,6 +41,10 @@ a {
   padding: 16px;
 }
 
+.footer {
+  background: #eee;
+}
+
 input {
   border: 1px solid #ddd;
   border-radius: 16px;
