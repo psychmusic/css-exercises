@@ -34,6 +34,13 @@ a {
   text-direction: none;
 }
 
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
 input {
   border: 1px solid #ddd;
   border-radius: 16px;
